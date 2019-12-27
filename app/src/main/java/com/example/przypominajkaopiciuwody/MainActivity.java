@@ -77,16 +77,7 @@ int btnClickCount=0;
         }else wodaLeftTextView.setText("Pozostało: 0 szklanek do wypicia!");
  }
 
- public void reset(View view){
-     wodaLeftTextView.setVisibility(View.INVISIBLE);
-     vertical_progressbar.setVisibility(View.INVISIBLE);
-     szklankaButton.setVisibility(View.INVISIBLE);
-     progressBar.setVisibility(View.INVISIBLE);
-     progressBar.setProgress(0);
-     vertical_progressbar.setProgress(2500);
-     progressBar.setVisibility(View.VISIBLE);
-     btnClickCount=0;
- }
+
 
     //MENU
 
