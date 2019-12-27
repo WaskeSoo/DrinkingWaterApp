@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Nowy dzień" android:id="@+id/newDay"></item>
+    <item android:title="Pomoc" android:id="@+id/help"></item>
+
+</menu>
